@@ -83,6 +83,7 @@ body {
 
 #code {
 	/*float: left;*/
+	margin-left: 100px;
 	width: 240px;
 	height: 400px;
 	color: #333;
