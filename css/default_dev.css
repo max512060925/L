@@ -6,8 +6,15 @@ body {
 	overflow: auto;
 }
 
-
-@media screen and (min-width:768px) {
+#mainDiv{
+		width: 100%;
+		height: 100%;
+	}
+#garden {
+	width: 100%;
+	height: 100%;
+}
+/*@media screen and (min-width:768px) {
     #mainDiv{
 		width: 100%;
 		height: 100%;
@@ -24,15 +31,13 @@ body {
 	#garden {
 		width: 50%;
 	}
-}
+}*/
 
 #loveHeart {
 	float: left;
-	width:670px;
-	height:625px;
+	width: 100%;
+	height: 100%;
 }
-
-
 
 #elapseClock {
 	text-align: right;
