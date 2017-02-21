@@ -32,8 +32,8 @@ body {
 
 #loveHeart {
 	/*float: left;*/
-	width: 670px;
-    height: 625px;
+	width: 335px;
+    height: 311px;
 }
 #garden {
 	width: 100%;
@@ -88,6 +88,7 @@ body {
 	color: #333;
 	font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New", "sans-serif";
 	font-size: 12px;
+	text-align: center;
 }
 
 #code .string{
